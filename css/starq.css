@@ -477,6 +477,10 @@ ul.top-menu a:hover {
     color:rgba(255,255,255,1);
 }
 
+ul.top-menu .current {
+  color:rgba(255,255,255,1);
+}
+
 .nav {
     display: block;
     width: 100%;
@@ -668,3 +672,4 @@ ul.top-menu a:hover {
     grid-area:card-text;
     padding-top: 15px;
 }
+
